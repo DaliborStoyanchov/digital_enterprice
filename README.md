@@ -1,2 +1,3 @@
-# digital_enterprice
-digital enterprice front-end dev case
+# digital_enterprise
+
+digital enterprise front-end dev case
